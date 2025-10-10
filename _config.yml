@@ -159,6 +159,8 @@ exclude:
   - _pages/teaching.md
 
   - _pages/profiles.md
+  
+  - _pages/projects.md # for the moment, to get the webpage working
 keep_files:
   - CNAME
   - .nojekyll
