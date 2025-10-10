@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>University of Oslo</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Fysikkbygningen, Office Ø442,</p>
+    <p>Sem Sælands vei 24,</p>
+    <p>0371 Oslo, NORWAY</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a theoretical physicist working at the interface between cosmology, quantum field theory, quantum many-body systems, and quantum information. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+A large part of my work focuses on the study of pair creation phenomena in the context of quantum field theory in curved spacetimes, in particular as a dark matter production mechanism during the early Universe. At the same time, I have investigated the simulation of quantum field dynamics in analogue gravity setups, primarily in Bose-Einstein condensates and trapped-ion systems. This has allowed me to study properties of quantum fields such as entanglement or quantisation ambiguities, from different perspectives. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Currently, I am a postdoctoral fellow at the group of Prof. Torsten Bringmann at the University of Oslo. We aim to characterise non-thermal dark matter production from both gravitational and a particle physics perspectives, employing tools from both fields.
+
+In addition to my research, I have taught Elementary Physics and Cosmology, and I have co-supervised several Bachelor's and Master's theses over the past few years, contributing to the academic development of students.
+
+My broader goal is to understand how quantum fields and gravity intertwine in the early Universe, and how these processes may leave observable imprints in the form of dark matter, gravitational waves, or quantum correlations.
