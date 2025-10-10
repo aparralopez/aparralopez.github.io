@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Oslo</a>
+subtitle: <a href=https://www.mn.uio.no/fysikk/english/research/groups/theory/>University of Oslo</a>
 
 profile:
   align: right
