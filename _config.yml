@@ -149,6 +149,8 @@ exclude:
 
   - _posts/
   - _pages/blog.md 
+
+  - _pages/repositories.md
   
 keep_files:
   - CNAME
