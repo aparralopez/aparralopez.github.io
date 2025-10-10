@@ -32,7 +32,3 @@ I am a theoretical physicist working at the interface between cosmology, quantum
 A large part of my work focuses on the study of pair creation phenomena in the context of quantum field theory in curved spacetimes, in particular as a dark matter production mechanism during the early Universe. At the same time, I have investigated the simulation of quantum field dynamics in analogue gravity setups, primarily in Bose-Einstein condensates and trapped-ion systems. This has allowed me to study properties of quantum fields such as entanglement or quantisation ambiguities, from different perspectives. 
 
 Currently, I am a postdoctoral fellow at the group of Prof. Torsten Bringmann at the University of Oslo. We aim to characterise non-thermal dark matter production from both gravitational and a particle physics perspectives, employing tools from both fields.
-
-In addition to my research, I have taught Elementary Physics and Cosmology, and I have co-supervised several Bachelor's and Master's theses over the past few years, contributing to the academic development of students.
-
-My broader goal is to understand how quantum fields and gravity intertwine in the early Universe, and how these processes may leave observable imprints in the form of dark matter, gravitational waves, or quantum correlations.
