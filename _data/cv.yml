@@ -19,24 +19,24 @@
 - title: Academic Positions
   type: time_table
   contents:
-  
-  - title: Postdoctoral Fellow - Ramón Areces Postdoctoral Fellowships
+    - title: Postdoctoral Fellow - Ramón Areces Postdoctoral Fellowships
       institution: University of Oslo, Norway
       year: 10/2025 – present
       description:
-        - Postdoctoral advisor: Prof. Torsten Bringmann
-        
+        - "Postdoctoral advisor: Prof. Torsten Bringmann"
+
     - title: Postdoctoral Researcher
       institution: Institute of Theoretical Physics UAM/CSIC, Autonomous University of Madrid, Spain
       year: 03/2025 – 09/2025
       description:
-        - Postdoctoral advisor: Prof. Alejandro Bermúdez Carballo
+        - "Postdoctoral advisor: Prof. Alejandro Bermúdez Carballo"
 
     - title: Postdoctoral Fellow – Formación de Profesorado Universitario (FPU)
       institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
       year: 2024 – 2025
       description:
-        - Postdoctoral advisor: Prof. José A. R. Cembranos
+        - "Postdoctoral advisor: Prof. José A. R. Cembranos"
+
 
 - title: Education
   type: time_table
