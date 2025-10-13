@@ -125,3 +125,97 @@
   contents:
     - 2025 — *J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. Ortega del Río*, "Estimation of gravitational production uncertainties", arXiv:2507.02410.
     - 2025 — *Á. Álvarez-Domínguez and Álvaro Parra-López*, "The relevance of ‘on’ and ‘off’ transitions in quantum pair production experiments", arXiv:2505.04473.
+
+- title: Invited Seminars
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Analogue expanding universes in BECs: Towards the observation of entangled pairs — University of Sheffield, UK (18/03/2025)"
+        - "Materia oscura, o cómo la expansión del universo es capaz de crear partículas — Universidad Alfonso X El Sabio, Madrid, Spain (20/02/2025)"
+    - year: 2023
+      items:
+        - "Simulating gravitational production of Dark Matter in the lab — GRAPPA Institute, University of Amsterdam, Netherlands (02/03/2023)"
+
+- title: Oral Contributions to Conferences
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Bose-Einstein condensates as Relativistic Quantum Information simulators — QTYR 2025, Madrid, Spain"
+        - "Analog Spacetimes and Relativistic Quantum Information in Bose-Einstein Condensates — QuIST IX, Madrid, Spain"
+    - year: 2024
+      items:
+        - "Cosmological production of dark matter in the Universe and in the laboratory — III IPARCOS Workshop, Madrid, Spain"
+        - "Towards probing entangled pairs in BEC analogue expanding universes — JUGAR II Workshop, IEM-CSIC, Madrid, Spain"
+        - "Spacetime dynamics as a dark matter production mechanism — XVI CPAN Days, Madrid, Spain"
+        - "Influence of spatial curvature in particle production during the early universe — EREP 2024, Coimbra, Portugal"
+    - year: 2023
+      items:
+        - "How Measurement Realizes Quantum Vacuum Ambiguities — Analog Gravity in 2023, Benasque, Spain"
+        - "Scalar and vector dark matter production during inflation and reheating — QFT in Curved Spacetime Workshop, IAA-CSIC, Granada, Spain"
+    - year: 2022
+      items:
+        - "Oscillations and vacuum choice in slow-roll sourced particle production — Madrid Winter Workshop 2022"
+        - "Gravitational particle production in the laboratory — XXXVIII Biennial of Physics, RSEF, Murcia, Spain"
+        - "Shedding light on Dark Matter using BECs — 19th MultiDark Consolider Workshop, Miraflores de la Sierra, Spain"
+
+- title: Poster Contributions
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - "Road to observing entangled pairs in BEC analog cosmological expansion — QSimFP Workshop, University of Nottingham, UK"
+    - year: 2024
+      items:
+        - "Switch-on and -off effects in particle production — Physikzentrum Bad Honnef, Germany"
+
+- title: Other Talks
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - "Miniature Universes — PhD Days, Faculty of Physical Sciences, Complutense University of Madrid (13–14/12/2022)"
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: 2024 – 2025
+      items:
+        - "Cosmology (24 hours) — Laboratory and problem sessions, Bachelor’s in Physics, Complutense University of Madrid"
+    - year: 2023 – 2024
+      items:
+        - "Cosmology (48 hours) — Laboratory and problem sessions, Bachelor’s in Physics, Complutense University of Madrid"
+        - "General Physics (24 hours) — Laboratory sessions, Bachelor’s in Chemistry, Complutense University of Madrid"
+    - year: 2022 – 2023
+      items:
+        - "Cosmology (18 hours) — Laboratory sessions, Bachelor’s in Physics, Complutense University of Madrid"
+
+- title: Student Supervision
+  type: nested_list
+  contents:
+    - title: Master’s Theses
+      items:
+        - "2024–2025 — Guillermo Gutiérrez Baquero, Complutense University of Madrid. Thesis: 'Gravitational particle production in cosmological scenarios' (Co-supervised with Profs. Cembranos and Garay)"
+        - "2023–2024 — Javier Ortega del Río, Complutense University of Madrid. Thesis: 'Gravitational production of dark matter' (Co-supervised with Profs. Cembranos and Garay)"
+    - title: Bachelor’s Theses
+      items:
+        - "2024–2025 — Paula Gregori Motto, Complutense University of Madrid. Thesis: 'Quantum fields in curved spacetimes' (Co-supervised with Prof. Garay and Dr. de Rivera)"
+        - "2024–2025 — Saúl Baltasar Jiménez, Complutense University of Madrid. Thesis: 'Vacuum Entanglement in Quantum Field Theory' (Co-supervised with Profs. Garay and Martín-Benito)"
+        - "2023–2024 — Lucía Velez Tartajo, Complutense University of Madrid. Thesis: 'Quantum fields in curved spacetimes' (Co-supervised with Prof. Garay)"
+
+
+- title: Committees
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - "Local Organising Committee — XVI CPAN Days, Faculty of Physical Sciences, Complutense University of Madrid (19–21/11/2024)"
+    - year: 2022
+      items:
+        - "Local Organising Committee — Madrid Winter Workshop 2022, Faculty of Physical Sciences, Complutense University of Madrid (12–15/12/2022)"
+
+- title: Referee Activities
+  type: list
+  contents:
+    - "Journal of High Energy Physics"
