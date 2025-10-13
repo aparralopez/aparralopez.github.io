@@ -3,95 +3,125 @@
   contents:
     - name: Full Name
       value: Álvaro Parra López
+    - name: Pronouns
+      value: he/him/his
+    - name: Email
+      value: parralopez.al@gmail.com
+    - name: Phone
+      value: +34 654 730 132
     - name: Date of Birth
       value: 2nd December 1997
-    - name: Languages
-      value: English, Spanish
+    - name: Nationality
+      value: Spanish
+    - name: ORCID ID
+      value: 0000-0001-5981-7195
+
+- title: Academic Positions
+  type: time_table
+  contents:
+  
+  - title: Postdoctoral Fellow - Ramón Areces Postdoctoral Fellowships
+      institution: University of Oslo, Norway
+      year: 10/2025 – present
+      description:
+        - Postdoctoral advisor: Prof. Torsten Bringmann
+        
+    - title: Postdoctoral Researcher
+      institution: Institute of Theoretical Physics UAM/CSIC, Autonomous University of Madrid, Spain
+      year: 03/2025 – 09/2025
+      description:
+        - Postdoctoral advisor: Prof. Alejandro Bermúdez Carballo
+
+    - title: Postdoctoral Fellow – Formación de Profesorado Universitario (FPU)
+      institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
+      year: 2024 – 2025
+      description:
+        - Postdoctoral advisor: Prof. José A. R. Cembranos
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: Complutense University of Madrid, Spain
-      year: 2024
+    - title: PhD in Physics
+      institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
+      year: 2021 – 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - PhD Thesis: "Cosmological production of dark matter in the Universe and in the laboratory"
+        - Supervisors: Prof. José A. R. Cembranos and Prof. Luis J. Garay
+        - Cum Laude (With Honors)
 
-- title: Experience
+    - title: Master of Science in Physics (120 ECTS)
+      institution: Heidelberg University, Germany
+      year: 2019 – 2021
+      description:
+        - Master’s Thesis: "A universe on top of a Bose–Einstein condensate"
+        - Supervisor: Prof. Stefan Flörchinger
+        - Overall mark obtained: 1.0 (maximum grade in scale from 5.0 to 1.0)
+
+    - title: ERASMUS+ Exchange Student
+      institution: University of Oslo, Norway
+      year: 2018 – 2019
+      description:
+        - Courses from Master’s in Physics, Specialization in Theoretical Physics
+
+    - title: Bachelor of Science in Physics (240 ECTS)
+      institution: University of Murcia, Spain
+      year: 2015 – 2019
+      description:
+        - Bachelor’s Thesis: "Synchronization in quantum systems"
+        - Supervisors: Prof. Miguel Ortuño Ortín and Prof. Joakim Bergli (UiO)
+        - Overall mark obtained: 9.11 (scale from 0 to 10)
+        - Award for the Outstanding Graduate of the Year (21/11/2019)
+
+- title: Research Stays
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Doctoral International Mobility Stay (3 months)
+      institution: Hearne Institute for Theoretical Physics, Louisiana State University, USA
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+        - Study of entanglement in cosmologically produced pairs
+        - Supervisor: Prof. Iván Agulló
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Funding
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Ramón Areces Postdoctoral Fellowship (1+1 years)
+      institution: Ramón Areces Foundation
+      year: 2025
+      description:
+        - Private funding for developing a research project in Prof. Torsten Bringmann’s group at the University of Oslo
 
-- title: Honors and Awards
+- title: Grants and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Research stay grant for FPU fellows (3 months) — Spanish Ministry of Science, Innovation and Universities
+        - Top 10 Breakthroughs of the Year 2023 for Nature study — *Physics World*
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Award for the Outstanding Graduate of the Year — University of Murcia
+    - year: 2018
+      items:
+        - Erasmus+ Fellowship — European Commission
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Publications
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - 2024 — *I. Agulló, A. Delhom, and Álvaro Parra-López*, "Toward the observation of entangled pairs in analog expanding universes", *Phys. Rev. D* 110, 125023.
+    - 2024 — C. F. Schmidt, Álvaro Parra-López, M. Tolosa-Simeón, M. Sparn, E. Kath, N. Liebster, J. Duchene, H. Strobel, M. K. Oberthaler, and S. Flörchinger, "Cosmological particle production in a quantum field simulator as a quantum mechanical scattering problem", *Phys. Rev. D* 110, 123523.
+    - 2024 — M. Sparn, E. Kath, N. Liebster, J. Duchene, C. F. Schmidt, M. Tolosa-Simeón, Álvaro Parra-López, S. Flörchinger, H. Strobel, and M. K. Oberthaler, "Experimental Particle Production in Time-Dependent Spacetimes: A One-Dimensional Scattering Problem", *Phys. Rev. Lett.* 133, 260201.
+    - 2024 — *J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. M. Sánchez Velázquez*, "Vector dark matter production during inflation and reheating", *JCAP* 02(2024)013.
+    - 2023 — *Á. Álvarez-Domínguez, J. A. R. Cembranos, L. J. Garay, M. Martín-Benito, Álvaro Parra-López, and J. M. Sánchez Velázquez*, "Operational realization of quantum vacuum ambiguities", *Phys. Rev. D* 108, 065008.
+    - 2023 — *J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. M. Sánchez Velázquez*, "Late vacuum choice and slow roll approximation in gravitational particle production during reheating", *JCAP* 08(2023)060.
+    - 2022 — C. Viermann, M. Sparn, N. Liebster, M. Hans, E. Kath, Álvaro Parra-López, M. Tolosa-Simeón, N. Sánchez-Kuntz, T. Haas, H. Strobel, S. Flörchinger, and M. K. Oberthaler, "Quantum field simulator for dynamics in curved spacetime", *Nature* 611.7935, 260.
+    - 2022 — N. Sánchez-Kuntz, Álvaro Parra-López, M. Tolosa-Simeón, T. Haas, and S. Flörchinger, "Scalar quantum fields in cosmologies with 2+1 spacetime dimensions", *Phys. Rev. D* 105, 105020.
+    - 2022 — M. Tolosa-Simeón, Álvaro Parra-López, N. Sánchez-Kuntz, T. Haas, C. Viermann, M. Sparn, N. Liebster, M. Hans, E. Kath, H. Strobel, M. K. Oberthaler, and S. Flörchinger, "Curved and expanding spacetime geometries in Bose-Einstein condensates", *Phys. Rev. A* 106, 033313.
+    - 2020 — Álvaro Parra-López and J. Bergli, "Synchronization in two-level quantum systems", *Phys. Rev. A* 101, 062104.
+
+
+- title: Preprints
+  type: list
+  contents:
+    - 2025 — *J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. Ortega del Río*, "Estimation of gravitational production uncertainties", arXiv:2507.02410.
+    - 2025 — *Á. Álvarez-Domínguez and Álvaro Parra-López*, "The relevance of ‘on’ and ‘off’ transitions in quantum pair production experiments", arXiv:2505.04473.
