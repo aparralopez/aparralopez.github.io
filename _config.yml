@@ -232,8 +232,8 @@ terser:
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Parra-López]
+  first_name: [Álvaro]
 
   style: apa
   locale: en
