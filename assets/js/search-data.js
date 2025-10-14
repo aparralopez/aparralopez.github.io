@@ -99,11 +99,11 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/2172803", "_blank");
         },
       },{
-        id: 'social-instagram',
-        title: 'Instagram',
+        id: 'social-scholar',
+        title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://instagram.com/alvaro.parrrrrrra", "_blank");
+          window.open("https://scholar.google.com/citations?user=Mi-1QU8AAAAJ", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -113,11 +113,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/alvaroparralopez", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-instagram',
+        title: 'Instagram',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=Mi-1QU8AAAAJ", "_blank");
+          window.open("https://instagram.com/alvaro.parrrrrrra", "_blank");
         },
       },{
       id: 'light-theme',
