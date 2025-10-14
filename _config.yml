@@ -6,11 +6,11 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Álvaro
 middle_name: 
 last_name: Parra-López
-contact_note: 
+contact_note: "Personal webpage of Álvaro Parra-López, Postdoctoral Researcher in Theoretical Physics and Cosmology."
   
 description: "Personal webpage of Álvaro Parra-López, Postdoctoral Researcher in Theoretical Physics and Cosmology."
   
-footer_text: 
+footer_text: "Personal webpage of Álvaro Parra-López, Postdoctoral Researcher in Theoretical Physics and Cosmology."
 keywords: physics, theoretical physics, cosmology, quantum field theory, dark matter, quantum information # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌌 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
