@@ -1,3 +1,7 @@
+# ======================
+# Álvaro Parra López – CV (fixed: strings with colons quoted)
+# ======================
+
 - title: General Information
   type: map
   contents:
@@ -16,10 +20,14 @@
     - name: ORCID ID
       value: 0000-0001-5981-7195
 
+# ======================
+# Academic Positions
+# ======================
+
 - title: Academic Positions
   type: time_table
   contents:
-    - title: Postdoctoral Fellow - Ramón Areces Postdoctoral Fellowships
+    - title: Postdoctoral Fellow – Ramón Areces Postdoctoral Fellowship
       institution: University of Oslo, Norway
       year: 10/2025 – present
       description:
@@ -37,6 +45,9 @@
       description:
         - "Postdoctoral advisor: Prof. José A. R. Cembranos"
 
+# ======================
+# Education
+# ======================
 
 - title: Education
   type: time_table
@@ -45,32 +56,36 @@
       institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
       year: 2021 – 2024
       description:
-        - PhD Thesis: "Cosmological production of dark matter in the Universe and in the laboratory"
-        - Supervisors: Prof. José A. R. Cembranos and Prof. Luis J. Garay
-        - Cum Laude (With Honors)
+        - "PhD Thesis: *Cosmological production of dark matter in the Universe and in the laboratory*"
+        - "Supervisors: Prof. José A. R. Cembranos and Prof. Luis J. Garay"
+        - "Cum Laude (With Honors)"
 
     - title: Master of Science in Physics (120 ECTS)
       institution: Heidelberg University, Germany
       year: 2019 – 2021
       description:
-        - Master’s Thesis: "A universe on top of a Bose–Einstein condensate"
-        - Supervisor: Prof. Stefan Flörchinger
-        - Overall mark obtained: 1.0 (maximum grade in scale from 5.0 to 1.0)
+        - "Master’s Thesis: *A universe on top of a Bose–Einstein condensate*"
+        - "Supervisor: Prof. Stefan Flörchinger"
+        - "Overall mark obtained: 1.0 (maximum grade in scale from 5.0 to 1.0)"
 
     - title: ERASMUS+ Exchange Student
       institution: University of Oslo, Norway
       year: 2018 – 2019
       description:
-        - Courses from Master’s in Physics, Specialization in Theoretical Physics
+        - "Courses from Master’s in Physics, specialization in Theoretical Physics"
 
     - title: Bachelor of Science in Physics (240 ECTS)
       institution: University of Murcia, Spain
       year: 2015 – 2019
       description:
-        - Bachelor’s Thesis: "Synchronization in quantum systems"
-        - Supervisors: Prof. Miguel Ortuño Ortín and Prof. Joakim Bergli (UiO)
-        - Overall mark obtained: 9.11 (scale from 0 to 10)
-        - Award for the Outstanding Graduate of the Year (21/11/2019)
+        - "Bachelor’s Thesis: *Synchronization in quantum systems*"
+        - "Supervisors: Prof. Miguel Ortuño Ortín and Prof. Joakim Bergli (UiO)"
+        - "Overall mark obtained: 9.11 (scale from 0 to 10)"
+        - "Award for the Outstanding Graduate of the Year (21/11/2019)"
+
+# ======================
+# Research Stays
+# ======================
 
 - title: Research Stays
   type: time_table
@@ -78,9 +93,13 @@
     - title: Doctoral International Mobility Stay (3 months)
       institution: Hearne Institute for Theoretical Physics, Louisiana State University, USA
       year: 2023
-      items:
-        - Study of entanglement in cosmologically produced pairs
-        - Supervisor: Prof. Iván Agulló
+      description:
+        - "Study of entanglement in cosmologically produced pairs"
+        - "Supervisor: Prof. Iván Agulló"
+
+# ======================
+# Funding
+# ======================
 
 - title: Funding
   type: time_table
@@ -89,22 +108,58 @@
       institution: Ramón Areces Foundation
       year: 2025
       description:
-        - Private funding for developing a research project in Prof. Torsten Bringmann’s group at the University of Oslo
+        - "Private funding for developing a research project in Prof. Torsten Bringmann’s group at the University of Oslo"
+
+# ======================
+# Grants and Awards
+# ======================
 
 - title: Grants and Awards
   type: time_table
   contents:
     - year: 2023
       items:
-        - Research stay grant for FPU fellows (3 months) — Spanish Ministry of Science, Innovation and Universities
-        - Top 10 Breakthroughs of the Year 2023 for Nature study — *Physics World*
+        - "Research stay grant for FPU fellows (3 months) — Spanish Ministry of Science, Innovation and Universities"
+        - "Top 10 Breakthroughs of the Year 2023 for *Nature* study — *Physics World*"
     - year: 2019
       items:
-        - Award for the Outstanding Graduate of the Year — University of Murcia
+        - "Award for the Outstanding Graduate of the Year — University of Murcia"
     - year: 2018
       items:
-        - Erasmus+ Fellowship — European Commission
-        
+        - "Erasmus+ Fellowship — European Commission"
+
+# ======================
+# Publications
+# ======================
+
+- title: Publications
+  type: list
+  contents:
+    - "2024 — I. Agulló, A. Delhom, and Álvaro Parra-López, “Toward the observation of entangled pairs in analog expanding universes”, *Phys. Rev. D* 110, 125023."
+    - "2024 — C. F. Schmidt, Álvaro Parra-López, M. Tolosa-Simeón, M. Sparn, E. Kath, N. Liebster, J. Duchene, H. Strobel, M. K. Oberthaler, and S. Flörchinger, “Cosmological particle production in a quantum field simulator as a quantum mechanical scattering problem”, *Phys. Rev. D* 110, 123523."
+    - "2024 — M. Sparn, E. Kath, N. Liebster, J. Duchene, C. F. Schmidt, M. Tolosa-Simeón, Álvaro Parra-López, S. Flörchinger, H. Strobel, and M. K. Oberthaler, “Experimental Particle Production in Time-Dependent Spacetimes – A One-Dimensional Scattering Problem”, *Phys. Rev. Lett.* 133, 260201."
+    - "2024 — J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. M. Sánchez Velázquez, “Vector dark matter production during inflation and reheating”, *JCAP* 02(2024)013."
+    - "2023 — Á. Álvarez-Domínguez, J. A. R. Cembranos, L. J. Garay, M. Martín-Benito, Álvaro Parra-López, and J. M. Sánchez Velázquez, “Operational realization of quantum vacuum ambiguities”, *Phys. Rev. D* 108, 065008."
+    - "2023 — J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. M. Sánchez Velázquez, “Late vacuum choice and slow roll approximation in gravitational particle production during reheating”, *JCAP* 08(2023)060."
+    - "2022 — C. Viermann, M. Sparn, N. Liebster, M. Hans, E. Kath, Álvaro Parra-López, M. Tolosa-Simeón, N. Sánchez-Kuntz, T. Haas, H. Strobel, S. Flörchinger, and M. K. Oberthaler, “Quantum field simulator for dynamics in curved spacetime”, *Nature* 611, 260."
+    - "2022 — N. Sánchez-Kuntz, Álvaro Parra-López, M. Tolosa-Simeón, T. Haas, and S. Flörchinger, “Scalar quantum fields in cosmologies with 2+1 spacetime dimensions”, *Phys. Rev. D* 105, 105020."
+    - "2022 — M. Tolosa-Simeón, Álvaro Parra-López, N. Sánchez-Kuntz, T. Haas, C. Viermann, M. Sparn, N. Liebster, M. Hans, E. Kath, H. Strobel, M. K. Oberthaler, and S. Flörchinger, “Curved and expanding spacetime geometries in Bose–Einstein condensates”, *Phys. Rev. A* 106, 033313."
+    - "2020 — Álvaro Parra-López and J. Bergli, “Synchronization in two-level quantum systems”, *Phys. Rev. A* 101, 062104."
+
+# ======================
+# Preprints
+# ======================
+
+- title: Preprints
+  type: list
+  contents:
+    - "2025 — J. A. R. Cembranos, L. J. Garay, Álvaro Parra-López, and J. Ortega del Río, “Estimation of gravitational production uncertainties”, arXiv:2507.02410."
+    - "2025 — Á. Álvarez-Domínguez and Álvaro Parra-López, “The relevance of ‘on’ and ‘off’ transitions in quantum pair production experiments”, arXiv:2505.04473."
+
+# ======================
+# Invited Seminars
+# ======================
+
 - title: Invited Seminars
   type: time_table
   contents:
@@ -116,45 +171,61 @@
       items:
         - "Simulating gravitational production of Dark Matter in the lab — GRAPPA Institute, University of Amsterdam, Netherlands (02/03/2023)"
 
+# ======================
+# Oral Contributions to Conferences
+# ======================
+
 - title: Oral Contributions to Conferences
   type: time_table
   contents:
     - year: 2025
       items:
-        - "Bose-Einstein condensates as Relativistic Quantum Information simulators — QTYR 2025, Madrid, Spain"
-        - "Analog Spacetimes and Relativistic Quantum Information in Bose-Einstein Condensates — QuIST IX, Madrid, Spain"
+        - "Bose–Einstein condensates as Relativistic Quantum Information simulators — QTYR 2025, Madrid, Spain (06/2025)"
+        - "Analog Spacetimes and Relativistic Quantum Information in Bose–Einstein Condensates — QuIST IX, Madrid, Spain (05/2025)"
     - year: 2024
       items:
-        - "Cosmological production of dark matter in the Universe and in the laboratory — III IPARCOS Workshop, Madrid, Spain"
-        - "Towards probing entangled pairs in BEC analogue expanding universes — JUGAR II Workshop, IEM-CSIC, Madrid, Spain"
-        - "Spacetime dynamics as a dark matter production mechanism — XVI CPAN Days, Madrid, Spain"
-        - "Influence of spatial curvature in particle production during the early universe — EREP 2024, Coimbra, Portugal"
+        - "Cosmological production of dark matter in the Universe and in the laboratory — III IPARCOS Workshop, Madrid, Spain (10/2024)"
+        - "Towards probing entangled pairs in BEC analogue expanding universes — JUGAR II Workshop, IEM-CSIC, Madrid, Spain (07/2024)"
+        - "Spacetime dynamics as a dark matter production mechanism — XVI CPAN Days, Madrid, Spain (11/2024)"
+        - "Influence of spatial curvature in particle production during the early universe — EREP 2024, Coimbra, Portugal (05/2024)"
     - year: 2023
       items:
-        - "How Measurement Realizes Quantum Vacuum Ambiguities — Analog Gravity in 2023, Benasque, Spain"
-        - "Scalar and vector dark matter production during inflation and reheating — QFT in Curved Spacetime Workshop, IAA-CSIC, Granada, Spain"
+        - "How Measurement Realizes Quantum Vacuum Ambiguities — Analog Gravity in 2023, Benasque, Spain (09/2023)"
+        - "Scalar and vector dark matter production during inflation and reheating — QFT in Curved Spacetime Workshop, IAA-CSIC, Granada, Spain (03/2023)"
     - year: 2022
       items:
-        - "Oscillations and vacuum choice in slow-roll sourced particle production — Madrid Winter Workshop 2022"
-        - "Gravitational particle production in the laboratory — XXXVIII Biennial of Physics, RSEF, Murcia, Spain"
-        - "Shedding light on Dark Matter using BECs — 19th MultiDark Consolider Workshop, Miraflores de la Sierra, Spain"
+        - "Oscillations and vacuum choice in slow-roll sourced particle production — Madrid Winter Workshop 2022 (12/2022)"
+        - "Gravitational particle production in the laboratory — XXXVIII Biennial of Physics, RSEF, Murcia, Spain (07/2022)"
+        - "Shedding light on Dark Matter using BECs — 19th MultiDark Consolider Workshop, Miraflores de la Sierra, Spain (05/2022)"
+
+# ======================
+# Poster Contributions
+# ======================
 
 - title: Poster Contributions
   type: time_table
   contents:
     - year: 2025
       items:
-        - "Road to observing entangled pairs in BEC analog cosmological expansion — QSimFP Workshop, University of Nottingham, UK"
+        - "Road to observing entangled pairs in BEC analog cosmological expansion — QSimFP Workshop, University of Nottingham, UK (04/2025)"
     - year: 2024
       items:
-        - "Switch-on and -off effects in particle production — Physikzentrum Bad Honnef, Germany"
+        - "Switch-on and -off effects in particle production — Physikzentrum Bad Honnef, Germany (02/2024)"
+
+# ======================
+# Other Talks
+# ======================
 
 - title: Other Talks
   type: time_table
   contents:
     - year: 2022
       items:
-        - "Miniature Universes — PhD Days, Faculty of Physical Sciences, Complutense University of Madrid (13–14/12/2022)"
+        - "Miniature Universes — PhD Days, Faculty of Physical Sciences, Complutense University of Madrid (13/12/2022 - 14/12/2022)"
+
+# ======================
+# Teaching Experience
+# ======================
 
 - title: Teaching Experience
   type: time_table
@@ -170,29 +241,40 @@
       items:
         - "Cosmology (18 hours) — Laboratory sessions, Bachelor’s in Physics, Complutense University of Madrid"
 
+# ======================
+# Student Supervision
+# ======================
+
 - title: Student Supervision
   type: nested_list
   contents:
-    - title: Master’s Theses
+    - title: Master's Theses
       items:
-        - "2024–2025 — Guillermo Gutiérrez Baquero, Complutense University of Madrid. Thesis: 'Gravitational particle production in cosmological scenarios' (Co-supervised with Profs. Cembranos and Garay)"
-        - "2023–2024 — Javier Ortega del Río, Complutense University of Madrid. Thesis: 'Gravitational production of dark matter' (Co-supervised with Profs. Cembranos and Garay)"
-    - title: Bachelor’s Theses
+        - "2024–2025 — Guillermo Gutiérrez Baquero, Complutense University of Madrid. Thesis: *Gravitational particle production in cosmological scenarios* (Co-supervised with Profs. Cembranos and Garay)"
+        - "2023–2024 — Javier Ortega del Río, Complutense University of Madrid. Thesis: *Gravitational production of dark matter* (Co-supervised with Profs. Cembranos and Garay)"
+    - title: Bachelor's Theses
       items:
-        - "2024–2025 — Paula Gregori Motto, Complutense University of Madrid. Thesis: 'Quantum fields in curved spacetimes' (Co-supervised with Prof. Garay and Dr. de Rivera)"
-        - "2024–2025 — Saúl Baltasar Jiménez, Complutense University of Madrid. Thesis: 'Vacuum Entanglement in Quantum Field Theory' (Co-supervised with Profs. Garay and Martín-Benito)"
-        - "2023–2024 — Lucía Velez Tartajo, Complutense University of Madrid. Thesis: 'Quantum fields in curved spacetimes' (Co-supervised with Prof. Garay)"
+        - "2024–2025 — Paula Gregori Motto, Complutense University of Madrid. Thesis: *Quantum fields in curved spacetimes* (Co-supervised with Prof. Garay and Dr. de Rivera)"
+        - "2024–2025 — Saúl Baltasar Jiménez, Complutense University of Madrid. Thesis: *Vacuum Entanglement in Quantum Field Theory* (Co-supervised with Profs. Garay and Martín-Benito)"
+        - "2023–2024 — Lucía Velez Tartajo, Complutense University of Madrid. Thesis: *Quantum fields in curved spacetimes* (Co-supervised with Prof. Garay)"
 
+# ======================
+# Committees
+# ======================
 
 - title: Committees
   type: time_table
   contents:
     - year: 2024
       items:
-        - "Local Organising Committee — XVI CPAN Days, Faculty of Physical Sciences, Complutense University of Madrid (19–21/11/2024)"
+        - "Local Organising Committee — XVI CPAN Days, Faculty of Physical Sciences, Complutense University of Madrid (19/11/2024 - 21/11/2024)"
     - year: 2022
       items:
-        - "Local Organising Committee — Madrid Winter Workshop 2022, Faculty of Physical Sciences, Complutense University of Madrid (12–15/12/2022)"
+        - "Local Organising Committee — Madrid Winter Workshop 2022, Faculty of Physical Sciences, Complutense University of Madrid (12/12/2022 - 15/12/2022)"
+
+# ======================
+# Referee Activities
+# ======================
 
 - title: Referee Activities
   type: list
