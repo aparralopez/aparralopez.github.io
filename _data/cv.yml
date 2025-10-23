@@ -13,12 +13,12 @@
       value: parralopez.al@gmail.com
     #- name: Phone
     #  value: +34 654 730 132
-    - name: Date of Birth
-      value: 2nd December 1997
-    - name: Nationality
-      value: Spanish
-    - name: ORCID ID
-      value: 0000-0001-5981-7195
+#    - name: Date of Birth
+#      value: 2nd December 1997
+#    - name: Nationality
+#      value: Spanish
+#    - name: ORCID ID
+#      value: 0000-0001-5981-7195
 
 # ======================
 # Academic Positions
@@ -41,7 +41,7 @@
 
     - title: Postdoctoral Fellow – Formación de Profesorado Universitario (FPU)
       institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
-      year: 2024 – 2025
+      year: 12/2024 – 03/2025
       description:
         - "Postdoctoral advisor: Prof. José A. R. Cembranos"
 
@@ -56,15 +56,15 @@
       institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
       year: 2021 – 2024
       description:
-        - "PhD Thesis: *Cosmological production of dark matter in the Universe and in the laboratory*"
+        - "PhD Thesis: 'Cosmological production of dark matter in the Universe and in the laboratory'
         - "Supervisors: Prof. José A. R. Cembranos and Prof. Luis J. Garay"
         - "Cum Laude (With Honors)"
 
-    - title: Master of Science in Physics (120 ECTS)
+    - title: Master of Science in Physics
       institution: Heidelberg University, Germany
       year: 2019 – 2021
       description:
-        - "Master’s Thesis: *A universe on top of a Bose–Einstein condensate*"
+        - "Master’s Thesis: 'A universe on top of a Bose–Einstein condensate'
         - "Supervisor: Prof. Stefan Flörchinger"
         - "Overall mark obtained: 1.0 (maximum grade in scale from 5.0 to 1.0)"
 
@@ -74,11 +74,11 @@
       description:
         - "Courses from Master’s in Physics, specialization in Theoretical Physics"
 
-    - title: Bachelor of Science in Physics (240 ECTS)
+    - title: Bachelor of Science in Physics
       institution: University of Murcia, Spain
       year: 2015 – 2019
       description:
-        - "Bachelor’s Thesis: *Synchronization in quantum systems*"
+        - "Bachelor’s Thesis: 'Synchronization in quantum systems'
         - "Supervisors: Prof. Miguel Ortuño Ortín and Prof. Joakim Bergli (UiO)"
         - "Overall mark obtained: 9.11 (scale from 0 to 10)"
         - "Award for the Outstanding Graduate of the Year (21/11/2019)"
@@ -92,7 +92,7 @@
   contents:
     - title: Doctoral International Mobility Stay (3 months)
       institution: Hearne Institute for Theoretical Physics, Louisiana State University, USA
-      year: 2023
+      year: 09/2023 – 11/2023
       description:
         - "Study of entanglement in cosmologically produced pairs"
         - "Supervisor: Prof. Iván Agulló"
@@ -120,7 +120,7 @@
     - year: 2023
       items:
         - "Research stay grant for FPU fellows (3 months) — Spanish Ministry of Science, Innovation and Universities"
-        - "Top 10 Breakthroughs of the Year 2023 for *Nature* study — *Physics World*"
+        - "Top 10 Breakthroughs of the Year 2023 for 'Nature' study — Physics World"
     - year: 2019
       items:
         - "Award for the Outstanding Graduate of the Year — University of Murcia"
@@ -193,7 +193,7 @@
   contents:
     - year: 2022
       items:
-        - "Miniature Universes — PhD Days, Faculty of Physical Sciences, Complutense University of Madrid (13/12/2022 - 14/12/2022)"
+        - "Miniature Universes — PhD Days, Faculty of Physical Sciences, Complutense University of Madrid (12/2022)"
 
 # ======================
 # Teaching Experience
@@ -222,13 +222,13 @@
   contents:
     - title: Master's Theses
       items:
-        - "2024–2025 — Guillermo Gutiérrez Baquero, Complutense University of Madrid. Thesis: *Gravitational particle production in cosmological scenarios* (Co-supervised with Profs. Cembranos and Garay)"
-        - "2023–2024 — Javier Ortega del Río, Complutense University of Madrid. Thesis: *Gravitational production of dark matter* (Co-supervised with Profs. Cembranos and Garay)"
+        - "2024–2025 — Guillermo Gutiérrez Baquero, Complutense University of Madrid. Thesis: 'Gravitational particle production in cosmological scenarios' (co-supervised with Profs. Cembranos and Garay)"
+        - "2023–2024 — Javier Ortega del Río, Complutense University of Madrid. Thesis: 'Gravitational production of dark matter' (co-supervised with Profs. Cembranos and Garay)"
     - title: Bachelor's Theses
       items:
-        - "2024–2025 — Paula Gregori Motto, Complutense University of Madrid. Thesis: *Quantum fields in curved spacetimes* (Co-supervised with Prof. Garay and Dr. de Rivera)"
-        - "2024–2025 — Saúl Baltasar Jiménez, Complutense University of Madrid. Thesis: *Vacuum Entanglement in Quantum Field Theory* (Co-supervised with Profs. Garay and Martín-Benito)"
-        - "2023–2024 — Lucía Velez Tartajo, Complutense University of Madrid. Thesis: *Quantum fields in curved spacetimes* (Co-supervised with Prof. Garay)"
+        - "2024–2025 — Paula Gregori Motto, Complutense University of Madrid. Thesis: 'Quantum fields in curved spacetimes' (co-supervised with Prof. Garay and Dr. de Rivera)"
+        - "2024–2025 — Saúl Baltasar Jiménez, Complutense University of Madrid. Thesis: 'Vacuum Entanglement in Quantum Field Theory' (co-supervised with Profs. Garay and Martín-Benito)"
+        - "2023–2024 — Lucía Velez Tartajo, Complutense University of Madrid. Thesis: 'Quantum fields in curved spacetimes' (co-supervised with Prof. Garay)"
 
 # ======================
 # Committees
