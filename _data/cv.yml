@@ -10,7 +10,7 @@
     - name: Pronouns
       value: he/him/his
     - name: Email
-      value: parralopez.al@gmail.com
+      value: alvarop@uio.no
     #- name: Phone
     #  value: +34 654 730 132
 #    - name: Date of Birth
@@ -43,7 +43,7 @@
       institution: Department of Theoretical Physics and IPARCOS, Complutense University of Madrid, Spain
       year: 12/2024 – 03/2025
       description:
-        - "Postdoctoral advisor: Prof. José A. R. Cembranos"
+        - "Postdoctoral advisor: Prof. José A. R. Cembranos and Prof. Luis J. Garay"
 
 # ======================
 # Education
@@ -58,6 +58,7 @@
       description:
         - "PhD Thesis: 'Cosmological production of dark matter in the Universe and in the laboratory'"
         - "Supervisors: Prof. José A. R. Cembranos and Prof. Luis J. Garay"
+        - "Defense date: 13/12/2024"
         - "Cum Laude (With Honors)"
 
     - title: Master of Science in Physics
@@ -101,7 +102,7 @@
 # Funding
 # ======================
 
-- title: Funding
+- title: Funding and Grants
   type: time_table
   contents:
     - title: Ramón Areces Postdoctoral Fellowship (1+1 years)
@@ -109,17 +110,24 @@
       year: 2025
       description:
         - "Private funding for developing a research project in Prof. Torsten Bringmann’s group at the University of Oslo"
+    - title: FPU Fellowship Mobility Grant
+      institution: Spanish Ministry of Science, Innovation and Universities (MICIU)
+      year: 2023
+      description:
+        - "Grant for financing the stay in Prof. Agulló's group at Louisiana State University"
+    - title: Formación de Profesorado Universitario (FPU) Predoctoral Fellowship
+      institution: Spanish Ministry of Science, Innovation and Universities (MICIU)
+      year: 2021
 
 # ======================
 # Grants and Awards
 # ======================
 
-- title: Grants and Awards
+- title: Awards and Achievements
   type: time_table
   contents:
     - year: 2023
       items:
-        - "Research stay grant for FPU fellows (3 months) — Spanish Ministry of Science, Innovation and Universities"
         - "Top 10 Breakthroughs of the Year 2023 for 'Nature' study — Physics World"
     - year: 2019
       items:
@@ -152,18 +160,19 @@
   contents:
     - year: 2025
       items:
-        - "Bose–Einstein condensates as Relativistic Quantum Information simulators — QTYR 2025, Madrid, Spain (06/2025)"
-        - "Analog Spacetimes and Relativistic Quantum Information in Bose–Einstein Condensates — QuIST IX, Madrid, Spain (05/2025)"
+        - "From Analogue Spacetimes to Relativistic Quantum Information — When Quantum Field Theory Meets Quantum Information, Madrid, Spain (12/2025)"
+        - "Bose–Einstein condensates as Relativistic Quantum Information simulators — QTYR 2025, Madrid, Spain (07/2025)"
+        - "Analog Spacetimes and Relativistic Quantum Information in Bose–Einstein Condensates — QuIST IX, Madrid, Spain (07/2025)"
     - year: 2024
       items:
-        - "Cosmological production of dark matter in the Universe and in the laboratory — III IPARCOS Workshop, Madrid, Spain (10/2024)"
-        - "Towards probing entangled pairs in BEC analogue expanding universes — JUGAR II Workshop, IEM-CSIC, Madrid, Spain (07/2024)"
+        - "Cosmological production of dark matter in the Universe and in the laboratory — III IPARCOS Workshop, Madrid, Spain (12/2024)"
+        - "Towards probing entangled pairs in BEC analogue expanding universes — JUGAR II Workshop, IEM-CSIC, Madrid, Spain (12/2024)"
         - "Spacetime dynamics as a dark matter production mechanism — XVI CPAN Days, Madrid, Spain (11/2024)"
-        - "Influence of spatial curvature in particle production during the early universe — EREP 2024, Coimbra, Portugal (05/2024)"
+        - "Influence of spatial curvature in particle production during the early universe — EREP 2024, Coimbra, Portugal (07/2024)"
     - year: 2023
       items:
-        - "How Measurement Realizes Quantum Vacuum Ambiguities — Analog Gravity in 2023, Benasque, Spain (09/2023)"
-        - "Scalar and vector dark matter production during inflation and reheating — QFT in Curved Spacetime Workshop, IAA-CSIC, Granada, Spain (03/2023)"
+        - "How Measurement Realizes Quantum Vacuum Ambiguities — Analog Gravity in 2023, Benasque, Spain (06/2023)"
+        - "Scalar and vector dark matter production during inflation and reheating — QFT in Curved Spacetime Workshop, IAA-CSIC, Granada, Spain (05/2023)"
     - year: 2022
       items:
         - "Oscillations and vacuum choice in slow-roll sourced particle production — Madrid Winter Workshop 2022 (12/2022)"
@@ -179,7 +188,7 @@
   contents:
     - year: 2025
       items:
-        - "Road to observing entangled pairs in BEC analog cosmological expansion — QSimFP Workshop, University of Nottingham, UK (04/2025)"
+        - "Road to observing entangled pairs in BEC analog cosmological expansion — QSimFP Workshop, University of Nottingham, UK (03/2025)"
     - year: 2024
       items:
         - "Switch-on and -off effects in particle production — Physikzentrum Bad Honnef, Germany (02/2024)"
@@ -222,6 +231,9 @@
   contents:
     - title: Master's Theses
       items:
+        - "2025-2027 — Edvard Aasen (ongoing), University of Oslo. Thesis: 'Cosmological gravitational particle production of dark matter'"
+        - "2025-2027 — Sander Svartbekk Sandvik (ongoing), University of Oslo. Thesis: Gravitational Particle Production during Inflation"
+        - "2025-2026 — Elena Sánchez Barrero (ongoing), Complutense University of Madrid. Thesis: 'Perturbative and Non-Perturbative Approaches to Dark Matter Production During Inflation' (co-supervised with Profs. Cembranos and Garay)" 
         - "2024–2025 — Guillermo Gutiérrez Baquero, Complutense University of Madrid. Thesis: 'Gravitational particle production in cosmological scenarios' (co-supervised with Profs. Cembranos and Garay)"
         - "2023–2024 — Javier Ortega del Río, Complutense University of Madrid. Thesis: 'Gravitational production of dark matter' (co-supervised with Profs. Cembranos and Garay)"
     - title: Bachelor's Theses
